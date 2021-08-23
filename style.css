@@ -799,7 +799,6 @@ a.button-dot:hover:before {
 @media screen and  (max-width:450px) 
 {
    .home { background-image: url(images/mbg1.png);}
-
 }
 
 #home .section-wrapper {
@@ -808,7 +807,7 @@ a.button-dot:hover:before {
 }
 
 h1.big-text {
-    color: #fff;
+    color: #2B2D42;
     font-size: 80px;
     line-height: 120%;
     margin-bottom: 40px;
@@ -2237,6 +2236,8 @@ footer .footer-social-divider:before {
         height: 100%;
         width: 100%;
       }
+      .h1.big-text { color: #fff;}
+
     .menu-wrapper {
         width: 95%;
     }
@@ -2302,7 +2303,8 @@ footer .footer-social-divider:before {
 
     h1.big-text {
         text-align: center;
-        font-size: 60px;        
+        font-size: 60px;  
+        color: #fff;      
     }
 
     .section-wrapper {
