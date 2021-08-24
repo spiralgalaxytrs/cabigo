@@ -521,7 +521,7 @@ body .social a:hover {
 body a.button {
     display: inline-block;
     color: #fff;
-    background-color: #47ea4e;
+    background-color: #2B2D42;
     text-align: left;
     padding: 10px 40px;
     cursor: pointer;
@@ -1202,7 +1202,7 @@ h1.big-text {
 .pricing-table-price {
     font-size: 100px;
     line-height: 120%;
-    color: #47ea4e;
+    color: #2B2D42;
     font-weight: 700;
 }
 
@@ -1223,7 +1223,7 @@ h1.big-text {
 }
 
 .pricing-list span.fa {
-    color: #47ea4e;
+    color: #2B2D42;
     margin-right: 25px;
 }
 
