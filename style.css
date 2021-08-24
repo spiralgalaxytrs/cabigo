@@ -1209,6 +1209,7 @@ h1.big-text {
 .pricing-table-desc {
     font-size: 16px;
     letter-spacing: 2px;
+        color: #2B2D42;
 }
 
 .pricing-table ul {
@@ -1293,6 +1294,7 @@ h1.big-text {
     margin: 0;
     font-size: 16px;
     letter-spacing: 2px;
+        color: #2B2D42;
 }
 
 .member-name {
