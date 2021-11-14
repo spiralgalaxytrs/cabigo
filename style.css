@@ -944,11 +944,12 @@ h1.big-text {
 
 .latest-posts-background-featured-image-holder {
     width: 100%;
-    height: 600px;
+    height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     transition: .3s;
+    border-radius: 20px;
 }
 
 .latest-posts-background-featured-image-holder:hover {
@@ -1386,7 +1387,7 @@ h1.big-text {
 
 #millstones {
     background-image: url(images/on_black_left.png);
-    background-color: #000000;
+    background-color: #FAE716;
     background-position: left bottom;
     background-repeat: no-repeat;
     background-size: auto;
@@ -1650,7 +1651,7 @@ body.blog {
 ====================================== */
 
 .single .site-content {
-    background-color: #fff;
+    background-color: #FAE716;
 }
 
 .single-post-header-content {
@@ -1861,15 +1862,16 @@ body.blog {
 .contact-form textarea {
     font-family: 'Rubik', sans-serif;
     font-weight: 500;
-    border: 0;
+    border: 3px solid;
+    border-radius: 20px;
     font-size: 15px;
     padding: 5px 0;
     width: 100%;
     line-height: 25px;
-    color: #000;
+    color:gray;
     margin-bottom: 35px;
     text-indent: 10px;
-    background-color: transparent;
+    background-color: yellow;
     border-bottom: 3px solid;
 }
 
