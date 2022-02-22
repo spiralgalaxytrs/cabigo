@@ -74,7 +74,7 @@ body {
     margin-top: 16px;
   }
   
- /*==== .float1 {
+ .float1 {
     position: fixed;
     width: 60px;
     height: 60px;
@@ -92,7 +92,7 @@ body {
   
   .my-float1 {
     margin-top: 16px;
-  } ==== */
+  } 
   
 
 body a {
